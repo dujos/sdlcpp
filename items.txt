@@ -1,0 +1,3 @@
+rupee_green 0 999 1
+rupee_blue 0 999 5
+rupee_red 0 999 10

@@ -1,0 +1,5 @@
+close gameover_fade.png 1 100 -1
+0	0	640	480	320	245	5	5
+
+open gameover_fade.png 1 100 -1
+0	480	640	480	320	245	5	5

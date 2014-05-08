@@ -1,0 +1,4 @@
+small shadow.png 1 0 -1
+0	6	6	4	3	3	1	1
+big shadow.png 1 0 -1
+0	0	12	6	1	0	1	1

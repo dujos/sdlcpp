@@ -1,0 +1,2 @@
+on_ground entities.png 1 0 -1
+96	80	16	24	8	13	1	1

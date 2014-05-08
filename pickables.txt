@@ -1,0 +1,8 @@
+rupee_green items.png 1 100 0
+0	0	8	16	4	16	10	10
+
+rupee_blue items.png 1 100 0
+0	16	8	16	4	16	10	10
+
+rupee_red items.png 1 100 0
+0	32	8	16	4	16	10	10
